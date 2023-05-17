@@ -3,7 +3,7 @@ import { useGLTF } from "@react-three/drei"
 export function Building2({...props}) {
     // 3D model for Building by Ghowst
     // https://sketchfab.com/3d-models/house-building-low-poly-eb0379c41a994140ba02ae9373bf77a0
-    const car = useGLTF("/models/building2.glb")
+    const car = useGLTF("/mini_driving_game/models/building2.glb")
     return (
         <group
             {...props}

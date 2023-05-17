@@ -3,7 +3,7 @@ import { useGLTF } from "@react-three/drei"
 export function GasStation({...props}) {
     // 3D model for Gas Station by Virginia Vidonis
     // https://sketchfab.com/3d-models/low-poly-gas-station-e2d22c2e3a2c455ba1ed9de93da809b3
-    const car = useGLTF("/models/gas_station.glb")
+    const car = useGLTF("/mini_driving_game/models/gas_station.glb")
     // console.log(car)
     return (
         <group
