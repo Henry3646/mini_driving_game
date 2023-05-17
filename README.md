@@ -4,13 +4,13 @@ Description : Mini Racing Game is a 3D driving experience in the browser. It use
 
 Controls : \
 W - Accelerate\
-S - Decelerate\   
-A - Steer left\      
-D - Steer Right\
+S - Decelerate
+A - Steer left      
+D - Steer Right
 
 T - Change Camera View\
-R - Reset Car Position\
+R - Reset Car Position
 
 Left Click - Orbit Camera\
 Right Click - Pan Camera\
-Scroll - Zoom Camera  \
+Scroll - Zoom Camera  
