@@ -4,7 +4,7 @@ Description : Mini Racing Game is a 3D driving experience in the browser. It use
 
 Controls : \
 W - Accelerate\
-S - Decelerate
+S - Decelerate\
 A - Steer left      
 D - Steer Right
 
