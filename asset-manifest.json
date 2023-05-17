@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini_driving_game/static/css/main.e6d9a8d6.css",
+    "main.js": "/mini_driving_game/static/js/main.3bdfb4d8.js",
+    "index.html": "/mini_driving_game/index.html",
+    "main.e6d9a8d6.css.map": "/mini_driving_game/static/css/main.e6d9a8d6.css.map",
+    "main.3bdfb4d8.js.map": "/mini_driving_game/static/js/main.3bdfb4d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d9a8d6.css",
+    "static/js/main.3bdfb4d8.js"
+  ]
+}
