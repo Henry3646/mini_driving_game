@@ -1,7 +1,7 @@
 import "./index.css"
 import { createRoot } from "react-dom/client"
 import { Canvas } from "@react-three/fiber"
-import { Scene } from "./Scene"
+import { Scene } from "./Scene.js"
 import { Physics } from "@react-three/cannon"
 
 createRoot(document.getElementById("root")).render(

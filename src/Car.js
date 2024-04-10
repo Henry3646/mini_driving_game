@@ -3,9 +3,9 @@ import { useFrame, useLoader } from "@react-three/fiber"
 import { useEffect, useRef } from "react"
 import { Quaternion, Vector3 } from "three"
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader"
-import { useControls } from "./useControls"
-import { useWheels } from "./useWheels"
-import { WheelDebug } from "./WheelDebug"
+import { useControls } from "./useControls.js"
+import { useWheels } from "./useWheels.js"
+import { WheelDebug } from "./WheelDebug.js"
 
 export function Car({ thirdPerson }) {
     // 3D Model for Car by yokatann
